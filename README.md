@@ -90,4 +90,4 @@ The provided code implements a Spring Security configuration using JWT (JSON Web
 4. If the token is valid, the request proceeds to the controller.
 5. If the token is invalid or missing, Spring Security returns a 401 Unauthorized response.
 
-`code`
+
